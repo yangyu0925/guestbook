@@ -1,5 +1,5 @@
 <?php
-
+ 
 use App\Core\Token;
 
 require __DIR__ . '/app/init.php';
